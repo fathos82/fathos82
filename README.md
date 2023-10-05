@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias que gosto de trabalhar:
 
 ## Como me Encontrar
 
-- 📫 Você também pode me enviar um e-mail em [fathos82@gmail.com].
+- 📫 Você pode me enviar um e-mail em [fathos82@gmail.com].
 
 ## Estatísticas do GitHub
 
